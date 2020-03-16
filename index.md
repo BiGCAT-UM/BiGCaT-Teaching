@@ -9,7 +9,7 @@ Introductory Lectures
 * [Epigenetics and Gene Regulation](Lectures/Bioinformatics Lectures/2013_Epigenetics-Chris_Evelo.pdf)
 * [Genetic Variation](Lectures/Bioinformatics Lectures/2013_Genetic variation_BWE.pdf)
 * [Introduction to Bioinformatics and Biological Databases](Lectures/Bioinformatics Lectures/2013_Intro_Bioinformatics_Dbs-Andra.pdf)
-* [Introduction to Bioinformatics](Lectures/Bioinformatics Lectures/2017-05-15_Bioinformatics-module_HZ.pdf)
+* [Introduction to Bioinformatics](Lectures/Bioinformatics Lectures/2019-05-13_Bioinformatics-module_HZ.pdf)
 * [Gene Expression Data Analysis](Lectures/Bioinformatics Lectures/Lecture Ehrhart _overview.pdf)
 
 
