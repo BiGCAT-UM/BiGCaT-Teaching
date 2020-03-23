@@ -58,6 +58,8 @@ Pathway Analysis
      * [Tutorial](Tutorials/Pathway Analysis/Practical 3 Pathway analysis.docx)
      * [EJP-RD and Helis Academy Pathway Analysis Tutorial](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Pathway_analysis.html)
      * [Helis Academy Pathway Analysis Tutorial](https://laurendupuis.github.io/Helis-Academy-Omics-June-2019/tutorials/Pathway_Analysis.html)
+     * [Disease Mechanisms Pathway Analysis Tutorial](https://mkutmon.gitlab.io/int3007/pathways.html)
+     * [WikiPathways Practical](https://mkutmon.gitlab.io/molmed-wikipathways/)
      
 
 Network Analysis
@@ -68,5 +70,9 @@ Network Analysis
     * [Network Biology Practical](Tutorials/Network Analysis/2015-BGK_Assignments_Network_Biology-Answers.pdf)
     * [Using network analysis to study the molecular and regulatory mechanisms involved in RETT Syndrome](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Network_Analysis.html)
     * [Using network analysis to study the molecular and regulatory mechanisms involved in lung cancer](https://laurendupuis.github.io/Helis-Academy-Omics-June-2019/tutorials/Network_Analysis.html)
+    * [Biological Network Data Tutorial](https://coort.gitlab.io/tutorial-network-data/)
+    * [Network Inference Tutorial](https://mkutmon.gitlab.io/tutorial-network-inference/)
+    * [Network Algorithms Tutorial](https://mkutmon.gitlab.io/tutorial-network-algorithms/)
+    * [Disease Mechanisms Network Analysis Practical](https://mkutmon.gitlab.io/int3007/networks.html)
 
 
