@@ -40,6 +40,10 @@ Data Pre-Processing
     * [Data Pre-Processing Tutorial Using Array Analysis](https://laurendupuis.github.io/Helis-Academy-Omics-June-2019/tutorials/Data_Preprocessing.html)
     
 
+Identifier Mapping
+---------------------
+* [BridgeDb R Tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/BridgeDbR/inst/doc/tutorial.html)
+
 Pathway Drawing
 -----------------------
 * The pathway drawing tool PathVisio can be downloaded [here](https://pathvisio.github.io/pages/download)
