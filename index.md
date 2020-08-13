@@ -12,7 +12,7 @@ Introductory Lectures
 * [Introduction to Bioinformatics](Lectures/Bioinformatics Lectures/2019-05-13_Bioinformatics-module_HZ.pdf)
 * [Gene Expression Data Analysis](Lectures/Bioinformatics Lectures/Lecture Ehrhart _overview.pdf)
 
-
+<script type="application/ld+json">{"@context": "https://schema.org/","@type": "TrainingMaterial","name": "Epigenetics and Gene Regulation","description": "Lecture bij Prof. Chris Evelo about gene variants, epigenetics, and gene regulation. ","keywords": "gene variation, epigenetics, gene regulation","url": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf"}</script>
 
 Biological Databases
 -----------------------
