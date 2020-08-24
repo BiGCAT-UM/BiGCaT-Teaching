@@ -4,6 +4,8 @@ Department of Bioinformatics - BiGCaT Teaching Materials
 This repository has a collection of tutorials and lectures related to the tools provided by or contributed to by the Department of 
 Bioinformatics - BiGCaT at Maastricht University.
 
+You can find the collection of materials available on TeSS, ELIXIR's Training Portal, [here](https://tess.elixir-europe.org/content_providers/department-of-bioinformatics-bigcat-maastricht-university).
+
 Introductory Lectures
 -----------------------
 * [Epigenetics and Gene Regulation](Lectures/Bioinformatics Lectures/2013_Epigenetics-Chris_Evelo.pdf)
@@ -46,6 +48,7 @@ Identifier Mapping
 
 Pathway Drawing
 -----------------------
+Check out the [PathVisio YouTube Channel](https://www.youtube.com/channel/UCTkyLj_4u6V4M5lUmyuOGDw) for videos to help you use the software.
 * The pathway drawing tool PathVisio can be downloaded [here](https://pathvisio.github.io/pages/download)
 * An introduction for pathway drawing in PathVisio can be found at the [Wikipathways Academy](https://wikipathways.github.io/academy/)
 * Pathway Drawing Tutorials are available
@@ -53,6 +56,8 @@ Pathway Drawing
     * [Example pathways](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Pathway_Drawing_Examples.html)
 * Pathway Curation
      * [Tutorial](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Pathway_Curation.html)
+     
+
 
 Pathway Analysis
 -------------------------------------------------------------------------
@@ -64,6 +69,7 @@ Pathway Analysis
      * [Helis Academy Pathway Analysis Tutorial](https://laurendupuis.github.io/Helis-Academy-Omics-June-2019/tutorials/Pathway_Analysis.html)
      * [Disease Mechanisms Pathway Analysis Tutorial](https://mkutmon.gitlab.io/int3007/pathways.html)
      * [WikiPathways Practical](https://mkutmon.gitlab.io/molmed-wikipathways/)
+     * [How to use the Pathway module of ArrayAnalysis.org for pathway analysis of microarray data](https://enanomapper.github.io/tutorials/Pathway_analysis/Pathway%20analysis.html)
      
 
 Network Analysis
@@ -79,4 +85,22 @@ Network Analysis
     * [Network Algorithms Tutorial](https://mkutmon.gitlab.io/tutorial-network-algorithms/)
     * [Disease Mechanisms Network Analysis Practical](https://mkutmon.gitlab.io/int3007/networks.html)
 
-
+eNanoMapper
+-----------------------------------------
+Tutorials     
+     * [eNanoMapper Ontologies](https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html)
+     * [Adding nanomaterial data](https://nanocommons.github.io/tutorials/enteringData/)
+     * [Entering and analysing nano safety data](https://enanomapper.github.io/tutorials/Entering_and_analysing_nano_safety_data/readme.html)
+     * [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
+     
+     
+Scholia
+-----------------------------------------
+Tutorials
+     * [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
+     
+     
+     
+     
+     
+ 
