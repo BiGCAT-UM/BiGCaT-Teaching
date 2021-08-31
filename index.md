@@ -87,7 +87,7 @@ Network Analysis
 
 eNanoMapper
 -----------------------------------------
-Tutorials     
+* Tutorials     
      * [eNanoMapper Ontologies](https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html)
      * [Adding nanomaterial data](https://nanocommons.github.io/tutorials/enteringData/)
      * [Entering and analysing nano safety data](https://enanomapper.github.io/tutorials/Entering_and_analysing_nano_safety_data/readme.html)
@@ -96,7 +96,7 @@ Tutorials
      
 Scholia
 -----------------------------------------
-Tutorials
+* Tutorials
      * [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
      
      
