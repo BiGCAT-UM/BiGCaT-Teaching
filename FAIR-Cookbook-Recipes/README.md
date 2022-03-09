@@ -7,4 +7,3 @@ List of recipes written by BiGCaT:
 - Unique, persistent identifiers [FCB006](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html)
 - Identifier mapping with BridgeDb [FCB017](https://faircookbook.elixir-europe.org/content/recipes/interoperability/bridgedb-recipe.html)
 - InChI and SMILES identifiers for chemical structures [FCB007](https://faircookbook.elixir-europe.org/content/recipes/infrastructure/chemical-identities.html)
-- Registering SwissLipids identifiers in Wikidata [FCB???]()
