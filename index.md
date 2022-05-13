@@ -16,6 +16,11 @@ Introductory Lectures
 
 <script type="application/ld+json">{"@context": "https://schema.org/","@type": "TrainingMaterial","name": "Epigenetics and Gene Regulation","description": "Lecture bij Prof. Chris Evelo about gene variants, epigenetics, and gene regulation. ","keywords": "gene variation, epigenetics, gene regulation","url": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf"}</script>
 
+Open Educational Resources
+-----------------------
+* [Introduction to Sequence Alignment and Blast](https://bigcat-um.github.io/BLAST-OER/)
+* [Groovy Cheminformatics with the Chemistry Development Kit](https://egonw.github.io/cdkbook/)
+
 Biological Databases
 -----------------------
 * [Introduction 2015](Lectures/Databases/2015_Biological_databases.pdf)
@@ -100,6 +105,7 @@ Wikidata Knowledge Graph
 -----------------------------------------
 * [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
 * [Registering Datasets in Wikidata](https://w3id.org/faircookbook/FCB060)
+* [Wikidata Queries around the SARS-CoV-2 virus and pandemic](https://egonw.github.io/SARS-CoV-2-Queries/)
      
      
      
