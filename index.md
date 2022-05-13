@@ -45,6 +45,8 @@ Data Pre-Processing
 Identifier Mapping
 ---------------------
 * [BridgeDb R Tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/BridgeDbR/inst/doc/tutorial.html)
+* [InChI and SMILES identifiers for chemical structures](https://w3id.org/faircookbook/FCB007)
+* [Identifier mapping with BridgeDb](https://w3id.org/faircookbook/FCB017)
 
 Pathway Drawing
 -----------------------
@@ -85,19 +87,19 @@ Network Analysis
     * [Network Algorithms Tutorial](https://mkutmon.gitlab.io/tutorial-network-algorithms/)
     * [Disease Mechanisms Network Analysis Practical](https://mkutmon.gitlab.io/int3007/networks.html)
 
-eNanoMapper
+Nanosafety research
 -----------------------------------------
-* Tutorials     
-     * [eNanoMapper Ontologies](https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html)
-     * [Adding nanomaterial data](https://nanocommons.github.io/tutorials/enteringData/)
-     * [Entering and analysing nano safety data](https://enanomapper.github.io/tutorials/Entering_and_analysing_nano_safety_data/readme.html)
-     * [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
-     
-     
-Scholia
+* Ontologies
+    * [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
+    * [Adding new term to the eNanoMapper ontology](https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html)
+* Data management
+    * [Adding nanomaterial data](https://nanocommons.github.io/tutorials/enteringData/)
+    * [Entering and analysing nano safety data](https://enanomapper.github.io/tutorials/Entering_and_analysing_nano_safety_data/readme.html)
+
+Wikidata Knowledge Graph
 -----------------------------------------
-* Tutorials
-     * [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
+* [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
+* [Registering Datasets in Wikidata](https://w3id.org/faircookbook/FCB060)
      
      
      
