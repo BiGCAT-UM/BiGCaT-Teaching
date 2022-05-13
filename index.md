@@ -14,12 +14,15 @@ Introductory Lectures
 * [Introduction to Bioinformatics](Lectures/Bioinformatics Lectures/2019-05-13_Bioinformatics-module_HZ.pdf)
 * [Gene Expression Data Analysis](Lectures/Bioinformatics Lectures/Lecture Ehrhart _overview.pdf)
 
-<script type="application/ld+json">{"@context": "https://schema.org/","@type": "TrainingMaterial", "http://purl.org/dc/terms/conformsTo": [ "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE", "@type": "CreativeWork" ], "@id": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf", "name": "Epigenetics and Gene Regulation","description": "Lecture bij Prof. Chris Evelo about gene variants, epigenetics, and gene regulation. ","keywords": "gene variation, epigenetics, gene regulation","url": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org/","@type": "CreativeWork", "http://purl.org/dc/terms/conformsTo": [ "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE", "@type": "CreativeWork" ], "@id": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf", "name": "Epigenetics and Gene Regulation","description": "Lecture bij Prof. Chris Evelo about gene variants, epigenetics, and gene regulation. ","keywords": "gene variation, epigenetics, gene regulation","url": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Epigenetics-Chris_Evelo.pdf"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org/","@type": "CreativeWork", "http://purl.org/dc/terms/conformsTo": [ "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE", "@type": "CreativeWork" ], "@id": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Genetic%20variation_BWE.pdf", "name": "Genetic Variation","description": "Lecture bij Dr. Lars Eijssen about gene variants and human movement.","keywords": "gene variation, movement","url": "https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Bioinformatics%20Lectures/2013_Genetic%20variation_BWE.pdf"}</script>
 
 Open Educational Resources
 -----------------------
 * [Introduction to Sequence Alignment and Blast](https://bigcat-um.github.io/BLAST-OER/)
 * [Groovy Cheminformatics with the Chemistry Development Kit](https://egonw.github.io/cdkbook/)
+
+<script type="application/ld+json">{"@context": "https://schema.org/","@type": "CreativeWork", "http://purl.org/dc/terms/conformsTo": [ "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE", "@type": "CreativeWork" ], "@id": "https://egonw.github.io/cdkbook/", "name": "Groovy Cheminformatics with the Chemistry Development Kit","description": "Book by Egon Willighagen introducing cheminformatics using the open source Chemistry Development Kit.","keywords": "gene variation, movement","url": "https://egonw.github.io/cdkbook/"}</script>
 
 Biological Databases
 -----------------------
