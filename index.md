@@ -63,8 +63,6 @@ Check out the [PathVisio YouTube Channel](https://www.youtube.com/channel/UCTkyL
     * [Example pathways](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Pathway_Drawing_Examples.html)
 * Pathway Curation
      * [Tutorial](https://laurendupuis.github.io/EJP-RD_Helis_Academy/tutorials/Pathway_Curation.html)
-     
-
 
 Pathway Analysis
 -------------------------------------------------------------------------
@@ -104,10 +102,11 @@ Sequence alignment
 -----------------------
 * [Introduction to Sequence Alignment and Blast](https://bigcat-um.github.io/BLAST-OER/)
 
-Wikidata Knowledge Graph
+Knowledge Graphs
 -----------------------------------------
-* [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
 * [Registering Datasets in Wikidata](https://w3id.org/faircookbook/FCB060)
+* [Use Scholia and Wikidata to find scientific literature](https://laurendupuis.github.io/Scholia_tutorial/)
+* [Using SPARQL to query Life Science Databases](https://bigcat-um.github.io/PRA3006-SPARQL/)
 * [Wikidata Queries around the SARS-CoV-2 virus and pandemic](https://egonw.github.io/SARS-CoV-2-Queries/)
      
      
